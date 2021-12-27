@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=192.168.1.x;Initial Catalog=dbname;Integrated Security=False;Persist Security Info=False;User ID=hello;Password=dd;MultipleActiveResultSets=True

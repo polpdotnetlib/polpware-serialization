@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>Provides a set of functions for processing runtime structures, including but not limited to: transforming the bytes into an object back and forth.</Description>
+  </PropertyGroup>
+
+</Project>
+
+
