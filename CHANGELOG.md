@@ -1,3 +1,6 @@
+## 1.0.0 (December 27, 2021)
+
+
 ## 0.3.0 (December 27, 2021)
   - Upgrade to .netcore 3.1
 
