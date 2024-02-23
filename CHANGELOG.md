@@ -1,3 +1,7 @@
+## 8.0.0 (February 23, 2024)
+  - Updated dependencies: Use net8.0 in tests
+  - k
+
 ## 1.0.0 (December 27, 2021)
 
 
